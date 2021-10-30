@@ -2,7 +2,6 @@
 /*
  * Program name: PatientQueue.java
  * Author: Xin Li
- * Course: CSC 210
  * Description: This is a program that manage patient orders
  * using priority queue.
  * 
